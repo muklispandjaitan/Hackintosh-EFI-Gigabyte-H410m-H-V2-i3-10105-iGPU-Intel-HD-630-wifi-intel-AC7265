@@ -6,7 +6,7 @@
 ### Hardware
 | Hardware       | Info                                                             |
 |----------------|------------------------------------------------------------------|
-| **Motherboard**| `Gigabyte H410M-H V2`                                            |
+| **Motherboard**| `Gigabyte H410M-H V2 Chipset H470`                               |
 | **CPU**        | `Intel Core i3-10105`                                            |
 | **RAM**        | `Samsung 16GB 2666mhz`                                           |
 | **Storage**    | `V-Gen 256GB SATA M2`                                            |
