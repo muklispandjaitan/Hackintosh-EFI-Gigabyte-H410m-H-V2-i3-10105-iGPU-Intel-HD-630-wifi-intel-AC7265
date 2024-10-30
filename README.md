@@ -1,5 +1,6 @@
 
-![ScreenShot](/Screenshoot/Screenshot%202024-10-30%20at%2010.09.03.png)
+![ScreenShot](/Screenshot/Screenshot%202024-10-30%20at%2010.09.03.png)
+
 
 
 ### Hardware
